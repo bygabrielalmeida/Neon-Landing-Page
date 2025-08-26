@@ -4,7 +4,7 @@ Recriação da interface do **Banco Neon**, focando na estruturação com **HTML
 
 ## 📝 Sobre o Projeto
 
-Neste projeto, recriei a interface do Banco Neon, buscando reproduzir o layout, as cores e os componentes visuais da página principal do site. A utilização de **SASS** permitiu a organização modular do CSS, com variáveis e mixins para controle de temas e responsividade.
+Neste projeto do módulo do Codeboost, recriei a interface do Banco Neon, buscando reproduzir o layout, as cores e os componentes visuais da página principal do site. A utilização de **SASS** permitiu a organização modular do CSS, com variáveis e mixins para controle de temas e responsividade.
 
 ## 🚀 Tecnologias Utilizadas
 
